@@ -47,6 +47,8 @@ otherwise check is true & loop break;
         }
 
 // for-each loop to print sorted array
+
+
         for(int item: a){
             System.out.print(item + " ");
         }
