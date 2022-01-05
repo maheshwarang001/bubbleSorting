@@ -22,6 +22,8 @@ here greatest number get swapped in first loop & located at end position of arra
         int len = a.length;   //n
 
         boolean check = true;
+        
+        
 /*
 here n = array lenght which is (int len)
 Descending form = n-1
@@ -30,6 +32,8 @@ boolean to check if swapping is happening inside loop (j)
 if swapped once check is false;
 otherwise check is true & loop break;
  */
+ 
+ 
         for(int i = 0; i < len-1-i;i++){
             for(int j = 0; j < len-1; j++){
 
