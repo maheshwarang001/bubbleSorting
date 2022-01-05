@@ -1,7 +1,6 @@
 # bubbleSorting
 This is an implementation of the bubble sort algorithm.
 
-public class BubbleSort {
 
 /*
 Bubble sort = checking left and right adjacent element;
@@ -47,9 +46,9 @@ otherwise check is true & loop break;
             if(check) break;
         }
 
-// for each loop to print sorted array
+// for-each loop to print sorted array
         for(int item: a){
             System.out.print(item + " ");
         }
     }
-}
+
