@@ -7,6 +7,9 @@ here greatest number get swapped in first loop & located at end position of arra
  */
 
     public static void main(String[] args) {
+        /*
+        scanner class can be used to take araay input
+        */
         int[] a = {3,5,1,6,2,9,4,10,49,21,32};
         for(int element: a){
             System.out.print(element + " ");
