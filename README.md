@@ -26,7 +26,7 @@ here greatest number get swapped in first loop & located at end position of arra
 /*
 here n = array lenght which is (int len)
 ascending form = n-1
-to reduce the iteration. As greater numbers get sorted from (first) right to left.To reduce time n-1-i
+to reduce the iteration. As greater numbers get sorted from (first) right to left.
 boolean to check if swapping is happening inside loop (j)
 if swapped once check is false;
 otherwise check is true & loop break;
